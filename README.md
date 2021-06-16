@@ -11,6 +11,7 @@ The base foundations were given, a game engine called Overlord engine. The goal 
 # Topics
 
 * NVIDIA PhysX
+* DirectX11
 * Custom HLSL shaders
   * Material shaders (diffuse, specular, phong, blinn, ambient, environment mapping, opacity)
   * Sprite / Texture rendering via shaders
